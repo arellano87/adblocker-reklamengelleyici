@@ -1,4 +1,4 @@
-**🚀 ArellanoBlocker - Reklam Engelleyici
+🚀 ArellanoBlocker - Reklam Engelleyici
 ArellanoBlocker, internetteki reklamları ve takipçileri engelleyen güçlü bir Chrome eklentisidir.
 
 ✨ Temel Özellikler
@@ -25,7 +25,7 @@ Sayaçlar: Engellenen reklam ve takipçi sayısını görüntüleyin
 Tema Desteği: Açık/Koyu tema seçeneği
 Açma/Kapatma: Eklentiyi anlık olarak devre dışı bırakabilirsiniz
 🛠️ Teknik Özellikler
-Manifest V3 (Güncel Chrome standardı)**
+Manifest V3 (Güncel Chrome standardı)
 Düşük bellek kullanımı
 Hızlı ve verimli çalışma
 Otomatik güncelleme
