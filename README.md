@@ -31,3 +31,5 @@ Hızlı ve verimli çalışma
 Otomatik güncelleme
 
 ![Screenshot_1](https://media.discordapp.net/attachments/1485517597242953841/1486124476314943539/image.png?ex=69c45cc6&is=69c30b46&hm=cae17a53a6307667283efc7fdca84c32c3a038eb1d92c6ef7ff295ad1265bc31&=&format=webp&quality=lossless&width=815&height=940)
+
+![Screenshot_2](https://cdn.discordapp.com/attachments/1485517597242953841/1486124533248163890/image.png?ex=69c45cd3&is=69c30b53&hm=0f649056c1182620b0b05588f18af652a4400b20ce07236877ca0372b9a775da&)
